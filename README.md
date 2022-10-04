@@ -9,4 +9,4 @@ Useful for cracking shitty loaders.
 
 # How to use
 
-Compile then inject dll into loader before injection and then the binaries will be saved in the same directory as the loader.
+Compile then inject dll into loader. Binaries will be saved in the same directory as the loader.
